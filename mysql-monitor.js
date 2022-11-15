@@ -1,5 +1,6 @@
 /**
  * mysql_monitor.js - Ed Shortt
+ * 2017
  * Script for logging and reversing changes to a database, based on: https://www.npmjs.com/package/mysql-event
  */
 
